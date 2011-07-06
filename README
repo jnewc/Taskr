@@ -1,3 +1,12 @@
-Taskr.js contains the single enyo kind used in the app Taskr for webOS 3.0
+IMPORTANT: This git is NOT the commercial version of Taskr available from the app catalog. The Taskr app in the HP App Catalog is a separate piece of software and is copyrighted and closed source.
+
+This app is really intended to be an example of db8 usage using the DbService enyo kind.
+
+
+----------
+  ABOUT
+----------
+
+Taskr.js contains a single enyo kind used in part in the app Taskr for webOS 3.0
 
 This project is licensed under GNU GENERAL PUBLIC LICENSE Version 2
